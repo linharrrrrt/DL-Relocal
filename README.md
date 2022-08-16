@@ -1,6 +1,6 @@
 # DL-Relocal
 
-this version of code is the right version of original ,w1 ,w2 and w1_w2.
+this version of code is of original ,w1 ,w2 and w1_w2.
 
 usage:
 `mkdir build`
@@ -8,7 +8,7 @@ usage:
 `cmake ..`
 `make`
 
-when you are training or testing this optional will help you restore from break:
+when you are training or testing, this optional will help you restore from break:
 
 `-sscript` scoring script
 `-omodel` useing model name
