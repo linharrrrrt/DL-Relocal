@@ -4,10 +4,10 @@ this version of code is of original ,w1 ,w2 and w1_w2.
 
 usage:
 ```
-`mkdir build`
-`cd build`
-`cmake ..`
-`make`
+mkdir build
+cd build
+cmake ..
+make
 ```
 
 when you are training or testing, this optional will help you restore from break:
