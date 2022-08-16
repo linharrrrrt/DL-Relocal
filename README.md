@@ -3,15 +3,15 @@
 this version of code is of original ,w1 ,w2 and w1_w2.
 
 usage:
-···
+```
 `mkdir build`
 `cd build`
 `cmake ..`
 `make`
-···
+```
 
 when you are training or testing, this optional will help you restore from break:
-···
+```
 `-sscript` scoring script
 `-omodel` useing model name
 `-oscript` training and test script 
@@ -23,7 +23,7 @@ when you are training or testing, this optional will help you restore from break
 `-rounds` the iterate end number, training test dosen't stop until the roundStart+n*testStep equals to rounds.
 `-GPUNo` set use GPU ,default 1.
 `-storeCounter` set the start number of files stored.
-···
+```
 
 datasets:
 first copy the scenes example to the same folder,
