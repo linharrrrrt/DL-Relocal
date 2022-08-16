@@ -54,7 +54,7 @@ $2:the absolute path to DSAC-master/7scenes eg./home/iccd/Documents/datasets/DSA
 ```
 only the used dataset be left.
 for example:
-````
+```
 -------------------
 #!/bin/bash
 
